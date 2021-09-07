@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "dark", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "오히히오히히오히히"
+title                    : "약국으로 어서오세요"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이영신"
-description              : "우왕 내가 짱이야 우헤헤헤헤헤헤헤헤헤헤"
+name                     : "마약탐지견"
+description              : "오히히히히히히"
 url                      : "http://xhihuahua.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "xhihuahua/xhihuahua.github.io"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "이영신"
+  name             : "마약탐지견"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "HAFS 16"
-  location         : "대한민국, 용인한국외국어대학교부설고등학교"
+  bio              : "좋아하는 사람마다 약이 펑"
+  location         : "대한민국, "
   email            : "21-20321@hafs.hs.kr"
   links:
     - label: "Email"
