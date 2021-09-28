@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "sunrise" # "dark", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko"
-title                    : "약국으로 어서오세요"
+title                    : "i'm xhihuahua"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "마약탐지견"
+name                     : "xhihuahua"
 description              : "오히히히히히히"
 url                      : "http://xhihuahua.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "마약탐지견"
+  name             : "xhihuahua"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "좋아하는 사람마다 약이 펑"
+  bio              : "hohihihihihihi"
   location         : "대한민국, "
   email            : "21-20321@hafs.hs.kr"
   links:
